@@ -8,5 +8,9 @@ This project provides a simple web-based tool for allocating the value of a serv
 - Built with React and Tailwind CSS in a single HTML file.
 
 ## Usage
+codex/add-readme-file-for-calculation-services-lstwgs
 Open the calculator by visiting the [Service Value Calculator webpage](https://raymondckm2000.github.io/ServiceValue-Calculator/index.html) in any modern browser.
+=======
+Open the [index.html](index.html) file in any modern browser to use the calculator.
+ main
 
